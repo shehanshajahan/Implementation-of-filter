@@ -135,7 +135,7 @@ iv) Using Median Filter
 
 i) Using Laplacian Kernal
 ![kernal](https://github.com/JEEVAABI/IMPLEMENTATION-OF-FILTERSS/assets/93427098/177f6248-52c5-4fe6-9665-dd3bdbbcd9a9)
-
+</br>
 ii) Using Laplacian Operator
 ![laplacian](https://github.com/JEEVAABI/IMPLEMENTATION-OF-FILTERSS/assets/93427098/151d4d05-514b-441b-9168-d2ac40fc29f0)
 
