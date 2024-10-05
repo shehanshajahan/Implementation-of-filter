@@ -7,15 +7,15 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1
-Read and show the image
+Read and show the image.
 ### Step2
-Apply the filtering technique that we want to perform
+Apply the filtering technique that we want to perform.
 ### Step3
-Show the filtered image
+Show the filtered image.
 
 ## Program:
-### Developed By   : ANU VARSHINI M B
-### Register Number: 212223240010
+### Developed By   : Shehan Shajahan
+### Register Number: 212223240154
 </br>
 
 ### 1. Smoothing Filters
